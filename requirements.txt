@@ -1,0 +1,6 @@
+pyrofork==2.3.45
+tgcrypto-pyrofork
+easyocr
+opencv-python-headless
+Pillow
+numpy
